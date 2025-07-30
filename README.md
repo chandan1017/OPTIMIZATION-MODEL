@@ -24,3 +24,5 @@ This task deepened my understanding of operations research, mathematical modelin
 
 #OUTPUT
 
+<img width="1351" height="962" alt="Image" src="https://github.com/user-attachments/assets/06bffa9b-18c7-4038-b02e-239530a15192" />
+
